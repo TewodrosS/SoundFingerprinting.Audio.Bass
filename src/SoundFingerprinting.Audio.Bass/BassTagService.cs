@@ -36,7 +36,7 @@
                 Genre = tags.genre,
                 Year = year,
                 Composer = tags.composer,
-                ISRC = tags.isrc
+                //ISRC = tags.isrc
             };
 
             return tagInfo;
